@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Chocolate Chip Cookies",
+    "description": "Four classic chocolate chip cookies, GLUTEN FREE",
+    "price": 7.99,
+    "image": "images/anika.png",
+    "filter": "glutenfree",
+    "type": "cookie",
+    "fav": "no"
+  },
+  {
+    "name": "Matcha Mille Crepe Cake",
+    "description": "Layers of matcha crepe and matcha cream filling, topped with strawberries, DAIRY FREE",
+    "price": 4.95,
+    "image": "images/aubrey.png",
+    "filter": "dairyfree",
+    "type": "cake",
+    "fav": "no"
+  },
+  {
+    "name": "Egg Custard Bun",
+    "description": "A fluffy steamed bun with a savory egg filling",
+    "price": 2.99,
+    "image": "images/connie.png",
+    "filter": "none",
+    "type": "none",
+    "fav": "no"
+  },
+  {
+    "name": "Steamed Taro Buns",
+    "description": "Two soft steamed buns filled with gooey purple taro filling, DAIRY FREE",
+    "price": 5.99,
+    "image": "images/dylan.png",
+    "filter": "dairyfree",
+    "type": "none",
+    "fav": "no"
+  },
+  {
+    "name": "Chocolate Fudge Brownie",
+    "description": "A rich fudge brownie drizzled with chocolate ganache, GLUTEN FREE",
+    "price": 3.99,
+    "image": "images/isaac.png",
+    "filter": "glutenfree",
+    "type": "none",
+    "fav": "no"
+  },
+  {
+    "name": "Macarons",
+    "description": "A box of three macarons in assorted flavors, DAIRY FREE",
+    "price": 4.99,
+    "image": "images/jeff.png",
+    "filter": "dairyfree",
+    "type": "none",
+    "fav": "no"
+  },
+  {
+    "name": "Multigrain Bread",
+    "description": "A loaf of fresh-baked multigrain bread",
+    "price": 4.54,
+    "image": "images/jenny.png",
+    "filter": "none",
+    "type": "none",
+    "fav": "no"
+  },
+  {
+    "name": "Croissant",
+    "description": "A classic butter croissant with a flaky crust",
+    "price": 2.54,
+    "image": "images/jessie.png",
+    "filter": "none",
+    "type": "none",
+    "fav": "no"
+  },
+  {
+    "name": "Toast with Butter",
+    "description": "A slice of toast with a pat of butter",
+    "price": 1.99,
+    "image": "images/kelly.png",
+    "filter": "none",
+    "type": "none",
+    "fav": "no"
+  },
+  {
+    "name": "Tiramisu",
+    "description": "A classic tiramisu with layers of coffee-soaked ladyfingers and mascarpone cream",
+    "price": 3.95,
+    "image": "images/lauren.png",
+    "filter": "none",
+    "type": "none",
+    "fav": "no"
+  },
+  {
+    "name": "Egg Tart",
+    "description": "A flaky pastry shell filled with a sweet egg custard",
+    "price": 2.05,
+    "image": "images/melissa.png",
+    "filter": "none",
+    "type": "none",
+    "fav": "no"
+  },
+  {
+    "name": "Everything Bagel",
+    "description": "A toasted bagel with sesame seeds, poppy seeds, and dried onion, DAIRY FREE",
+    "price": 2.25,
+    "image": "images/miku.png",
+    "filter": "dairyfree",
+    "type": "none",
+    "fav": "no"
+  },
+  {
+    "name": "Gingerbread Man",
+    "description": "A soft gingerbread cookie with a sweet icing glaze",
+    "price": 2.85,
+    "image": "images/nick.png",
+    "filter": "none",
+    "type": "cookie",
+    "fav": "no"
+  },
+  {
+    "name": "Cheesecake",
+    "description": "A slice of classic New York cheesecake topped with strawberry",
+    "price": 3.55,
+    "image": "images/sunny.png",
+    "filter": "none",
+    "type": "cake",
+    "fav": "no"
+  },
+  {
+    "name": "Cream Puff",
+    "description": "Light and airy pâte à choux filled with sweet whipped cream",
+    "price": 2.75,
+    "image": "images/tongyu.png",
+    "filter": "none",
+    "type": "none",
+    "fav": "no"
+  }
+]
