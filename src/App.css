@@ -1,9 +1,47 @@
-/* Add styling for your page here */
 
 .App {
-
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  margin: none;
+}
+img {
+  max-width:300px;
 }
 
-.BakeryItem {
-  
+.FoodItem {
+  flex: 30%;
+  margin: auto;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.banner {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 50px;
+  justify-content: space-between;
+}
+
+.cart {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  padding-left: 50%;
+  padding-right: 50%;
+  padding-bottom: 10%;
+}
+
+.filters {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  height: 20px;
+  margin-top: 25px;
 }
